@@ -112,7 +112,7 @@ Download the file named `immortalwrt-ipq50xx-arm-cmcc_rax3000q-squashfs-nand-fac
 
 ## Credits
 
-- [hugo.utermux.dev](https://hugo.utermux.dev/default/rax3000q-latest/) — vulnerability research on stock firmware RCE
+- [2096779623](https://github.com/2096779623) ([blog](https://hugo.utermux.dev/default/rax3000q-latest/)) — vulnerability research on stock firmware RCE
 - [kkstone](https://github.com/kkstone/Actions-OpenWrt-RAX3000Q) — ImmortalWrt automated firmware builds
 - [sfxfs/rax3000qy-OpenWrt](https://github.com/sfxfs/rax3000qy-OpenWrt) — original flashing guide
 
